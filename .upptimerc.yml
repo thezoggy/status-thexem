@@ -10,12 +10,12 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.thexem.info
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/thezoggy/status-thexem/master/assets/logo.svg
   theme: night
   name: "theXEM Status"
   introTitle: "theXEM Status"
-  introMessage: "To report an issue join #xem on irc.libera.chat or #xem on sonarr discord"
+  introMessage: "To report an issue join #xem on irc.libera.chat or #xem on sonarr's [discord](https://discord.sonarr.tv/)"
+  css: "nav > div { justify-content: center !important; }; .graph { -webkit-mask-image: none !important; mask-image: none !important };"
   navbar:
     - title: Status
       href: /
