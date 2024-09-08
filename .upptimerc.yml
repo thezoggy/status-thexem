@@ -11,8 +11,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.thexem.info
   logoUrl: https://raw.githubusercontent.com/thezoggy/status-thexem/master/assets/logo.svg
-  theme: dark
-  name: "Status"
+  theme: ocean
+  name: " "
   introTitle: "thexem.info status"
   introMessage: "To report an issue join #xem on irc.libera.chat or #xem on sonarr's [discord](https://discord.sonarr.tv/)"
   css: "nav > div { justify-content: center !important; }; .graph { -webkit-mask-image: none !important; mask-image: none !important };"
