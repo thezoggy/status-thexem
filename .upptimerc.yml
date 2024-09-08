@@ -10,8 +10,9 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.thexem.info
+  favicon: https://raw.githubusercontent.com/thezoggy/xem/master/favicon.ico
   logoUrl: https://raw.githubusercontent.com/thezoggy/status-thexem/master/assets/logo.svg
-  theme: ocean
+  theme: night
   name: " "
   introTitle: "thexem.info status"
   introMessage: "To report an issue join #xem on irc.libera.chat or #xem on sonarr's [discord](https://discord.sonarr.tv/)"
@@ -21,6 +22,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+i18n:
+  footer: ""
 robotsText: "User-agent: * \n Disallow: /"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
