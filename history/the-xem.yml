@@ -1,7 +1,7 @@
 url: https://thexem.info
-status: up
-code: 200
-responseTime: 2992
-lastUpdated: 2026-05-21T00:05:43.086Z
+status: down
+code: 429
+responseTime: 56
+lastUpdated: 2026-05-21T01:34:13.647Z
 startTime: 2024-09-08T05:09:38.637Z
 generator: Upptime <https://github.com/upptime/upptime>
