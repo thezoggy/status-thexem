@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/thexem.info.ico",
     "slug": "the-xem",
     "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.43%",
-    "time": 1986,
-    "timeDay": 720,
-    "timeWeek": 1369,
-    "timeMonth": 1554,
-    "timeYear": 2100,
+    "uptime": "99.62%",
+    "uptimeDay": "20.37%",
+    "uptimeWeek": "88.62%",
+    "uptimeMonth": "97.38%",
+    "uptimeYear": "99.22%",
+    "time": 1983,
+    "timeDay": 55,
+    "timeWeek": 1228,
+    "timeMonth": 1513,
+    "timeYear": 2099,
     "dailyMinutesDown": {
       "2025-11-05": 36,
       "2025-11-18": 136,
@@ -26,7 +26,9 @@
       "2026-05-05": 118,
       "2026-05-06": 182,
       "2026-05-07": 104,
-      "2026-05-21": 256
+      "2026-05-21": 256,
+      "2026-10-19": 252,
+      "2026-10-18": 895
     }
   }
 ]
